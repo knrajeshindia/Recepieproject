@@ -3,3 +3,8 @@ beans
 carrot
 
 sambar
+
+palak paneer
+kheer
+
+punjabi lassi
