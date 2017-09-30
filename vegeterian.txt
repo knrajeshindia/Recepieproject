@@ -1,3 +1,5 @@
 vegeterian menu
 beans
 carrot
+
+sambar
