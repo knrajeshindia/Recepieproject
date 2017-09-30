@@ -3,3 +3,6 @@ beans
 carrot
 
 sambar
+
+palak paneer
+kheer
