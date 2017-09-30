@@ -6,3 +6,5 @@ sambar
 
 palak paneer
 kheer
+
+punjabi lassi
